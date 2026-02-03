@@ -46,7 +46,7 @@ I'm a passionate **Software Engineer** with over 5 years of experience building 
 
 ## 🤝 Let's Connect
 
-- 📫 Email: [ali99yasin@gmail.com](mailto:ali99yasin@gmail.com)
+- 📫 Email: [biz@alibarznji.dev](mailto:biz@alibarznji.dev)
 - 💼 LinkedIn: [Ali Barznji](https://www.linkedin.com/in/ali-barznji-176b2218b/)
 
 ---
